@@ -1,19 +1,17 @@
 [
   {
-    "name": "Hitomi.la",
+    "name": "Tachiyomi: Hitomi.la",
     "pkg": "eu.kanade.tachiyomi.extension.hitomi",
     "apk": "hitomi-extension-v2.0-signed.apk",
-    "lang": "all",
-    "code": 2,
-    "version": "2.0.0",
+    "lang": "en",
+    "code": 3,
+    "version": "1.4.5",
     "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 1,
     "sources": [
       {
         "name": "Hitomi.la",
-        "lang": "all",
-        "id": "7777777777777777777",
+        "lang": "en",
+        "id": 7777777777777777777,
         "baseUrl": "https://hitomi.la"
       }
     ]
