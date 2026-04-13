@@ -1,9 +1,8 @@
 {
   "meta": {
     "name": "mihon-hitomi-extension",
-    "displayName": "Hitomi.la (riki4730)",
+    "shortName": "Hitomi",
     "website": "https://github.com/riki4730/mihon-hitomi-extension",
     "signingKeyFingerprint": "0c2a9dbd5bcf0a8e30cc85b625735760973a6addf6b45d89af498f44bb6e0469"
   }
 }
-
