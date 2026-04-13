@@ -4,7 +4,7 @@
     "pkg": "eu.kanade.tachiyomi.extension.hitomi",
     "apk": "hitomi-extension-v2.0-signed.apk",
     "lang": "es",
-    "code": 4,
+    "code": 5,
     "version": "1.4.5",
     "nsfw": 1,
     "sources": [
